@@ -1,0 +1,15 @@
+$('.owl-carousel-galeria').owlCarousel({
+    loop:false,
+    nav:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1200:{
+            items:2
+        }
+    }
+})

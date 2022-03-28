@@ -1,0 +1,35 @@
+# Intellij
+*/.idea/
+*/*.iml
+*/*.iws
+
+.idea/
+*.iml
+*.iws
+
+.classpath
+.project
+.settings/
+ 
+# Mac
+*/.DS_Store
+
+.DS_Store
+ 
+# Maven
+*/log/
+*/target/
+*/bin/
+dependency-reduced-pom.xml
+
+log/
+target/
+bin/
+
+build_windows.bat
+
+*/.cache-main
+*/.cache-tests
+
+shc/core/.cache-main
+shc/core/.cache-tests
